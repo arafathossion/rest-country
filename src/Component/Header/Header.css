@@ -1,0 +1,13 @@
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul li a{
+    color: aqua;
+    text-transform: capitalize;
+    font-size: calc(12px + 1vmin);
+    padding: 10px 20px;
+    background-color: aquamarine;
+    margin-right: 5px;
+    text-decoration: none;
+}

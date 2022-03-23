@@ -1,0 +1,11 @@
+.countryDiv{
+    box-sizing: border-box;
+    margin: 10px 1%;
+    padding: 10px 20px;
+    background-color: rgb(9, 196, 149);
+    border-radius: 10px;
+    width: 23%;
+}
+img{
+    width: 150px;
+}
